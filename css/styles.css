@@ -1,0 +1,24 @@
+*{
+	margin:0;
+	padding:0;
+}
+body {
+	font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+	font-size: 15px;
+    line-height: 28px;
+    letter-spacing: 0.5px;
+	color:#333;
+	background:#fff;
+	position:relative
+}
+
+.loader {
+	position: fixed;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	background: #fff;
+	z-index: 4444;
+}
